@@ -1,0 +1,7 @@
+langchain>=0.2.0
+pydantic>=2.0
+python-dotenv
+loguru
+chromadb
+qdrant-client
+requests

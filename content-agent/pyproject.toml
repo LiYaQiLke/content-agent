@@ -1,0 +1,19 @@
+[project]
+name = "content-agent"
+version = "0.1.0"
+description = "Agent-based content generation system"
+authors = [{name = "Your Name"}]
+requires-python = ">=3.10"
+
+dependencies = [
+  "langchain>=0.2.0",
+  "pydantic>=2.0",
+  "python-dotenv",
+  "loguru",
+  "chromadb",
+  "qdrant-client",
+  "requests"
+]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
