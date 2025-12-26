@@ -152,7 +152,5 @@ A: 可以用 mock 或本地 LLM（若已接入），或者将部分功能切换�
 
 本项目默认未指定许可证。若要发布请在仓库根添加 `LICENSE`。欢迎通过 PR 的方式贡献，提交前请运行测试并保持代码风格一致。
 
----
 
-如需我将此 README 写回仓库并做进一步校验（例如补充示例命令或 CI 配置），我可以继续完成。/ If you want, I can commit this README to the repo and run quick verifications (add example commands or CI config).
 
